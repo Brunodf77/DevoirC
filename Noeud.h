@@ -1,0 +1,4 @@
+int calcul();
+
+int division();
+
